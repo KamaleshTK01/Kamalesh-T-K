@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kamalesh T K</h1>
 <h3 align="center">A passionate software developer!!!</h3>
-<!-- <img align="centre" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamaleshtk01&label=Profile%20views&color=0e75b6&style=flat" alt="kamaleshtk01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamaleshtk01" alt="kamaleshtk01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 📫 How to reach me **tkkamalesh01@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1RIgQsY_Ng_4IwdJLl3Py5WqKozzjiN5d](https://drive.google.com/drive/folders/1RIgQsY_Ng_4IwdJLl3Py5WqKozzjiN5d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamaleshtk01&show_icons=true&locale=en" alt="kamaleshtk01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamaleshtk01&" alt="kamaleshtk01" /></p>
+
